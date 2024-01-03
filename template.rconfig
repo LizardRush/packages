@@ -1,0 +1,10 @@
+[[[{{{start-config}}}]]]
+[{libs.pyright}]
+# add your pylibs here
+[{git}]
+repo = 'https://github.com/LizardRush/packages.git' # replace with yours
+folder = '' # add the folder you need here
+extract_contents = True
+[{lock}]
+# add lock files here
+[[[{{{end-config}}}]]]
